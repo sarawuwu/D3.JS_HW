@@ -1,0 +1,34 @@
+body {
+    font-weight: bold;
+    margin: 2rem;
+
+}
+
+h3 {
+    font-weight: 500;
+    color: cadetblue;
+    margin: 0.4rem 0;
+}
+
+svg {
+    border: 1px solid #ccc;
+}
+
+button {
+    outline: none;
+    color: #555;
+    border-color: #eee;
+    background: #fefefe;
+    padding: 3px 0px;
+    width: 66px;
+    text-align: center;
+    transition: all 200ms;
+}
+
+button:hover {
+    background: lightgoldenrodyellow;
+}
+
+button:focus {
+    background: lightpink;
+}
